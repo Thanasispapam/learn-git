@@ -1,0 +1,4 @@
+#!/bin/bash
+
+g++ -Wall ./hello.cpp -o ./output/helloworld
+
